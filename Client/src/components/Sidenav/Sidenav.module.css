@@ -1,0 +1,8 @@
+.sidebar {
+  width: 260px;
+  background-color: #ffffff;
+  padding: 9px 12px 0px 12px;
+  height: 100vh;
+  box-shadow: -1px 0px 0px 0px rgba(4, 34, 44, 0.12) inset;
+
+}
